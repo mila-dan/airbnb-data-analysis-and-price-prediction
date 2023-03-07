@@ -54,4 +54,5 @@ Second part I would like to see what features predict the price.
 
 Medium link:
 
+https://medium.com/@mila.danilovskaya/airbnb-seattle-data-analysis-and-price-prediction-b31e21c783b5
 
