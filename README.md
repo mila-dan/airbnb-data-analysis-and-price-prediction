@@ -12,18 +12,9 @@ The goal of this project is to perfrom analysis and prediction of Airbnb Seattle
 
 	- Calendar, including listing id and the price and availability for that day
 
-
-
 ## Installation
 
-This project requires Python 3.x and the following Python libraries installed:
-
-Pandas 
-NumPy 
-matplotlib 
-seaborn 
-scikit-learn
-math
+This project requires Python 3.x and the libraries in the requiremets.txt file to be installed.
 
 ## Project Motivation
 
@@ -55,4 +46,8 @@ Second part I would like to see what features predict the price.
 Medium link:
 
 https://medium.com/@mila.danilovskaya/airbnb-seattle-data-analysis-and-price-prediction-b31e21c783b5
+
+## Acknowledgments
+
+Credit to Airbnb for providing the data. The dataset is free and available here: https://www.kaggle.com/datasets/airbnb/seattle
 
